@@ -22,7 +22,7 @@ Configure any other options if needed.
 # FFmpeg Setup
 [Windows (gpl)](https://github.com/BtbN/FFmpeg-Builds/releases)    
 Linux: `sudo apt install ffmpeg`    
-Termux `pkg install ffmpeg`    
+Termux `pkg install ffmpeg`
 Place in Nugs DL's script/binary directory if using FFmpeg binary.
 
 If you don't have root in Linux, you can have Nugs DL look for the binary in the same dir by setting the `useFfmpegEnvVar` option to false.
