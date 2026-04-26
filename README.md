@@ -1,8 +1,10 @@
 # Nugs-Downloader
-Nugs downloader written in Go.
+Nugs downloader written in Go - original by Sorrow446, patched & compiled by GavinGoGaming.
 ![](https://i.imgur.com/NOsQjnP.png)
 ![](https://i.imgur.com/BEudufy.png)
-[Windows, Linux, macOS, and Android binaries](https://github.com/Sorrow446/Nugs-Downloader/releases)
+
+[Updated Windows, macOS binaries](https://github.com/GavinGoGaming/Nugs-Downloader/releases)
+(Linux and Android binaries are currently unavailable. You should be able to wine the windows binaries on linux.)
 
 # Setup
 Input credentials into config file.
